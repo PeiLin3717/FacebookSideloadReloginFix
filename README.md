@@ -1,3 +1,10 @@
+# Shoutout to qnblackcat
+The re-loginning issue was fixed, and it has been working as expected.
+
+# Fixed app download
+Here's a link to the ready-to-go app for everybody who doesn't know how to fix the issue based on the following procedures.
+(https://drive.google.com/file/d/1EwgRRuZGt4tnQcnAXxDzhihpgoyLCrJh/view?usp=share_link)
+
 # FBSideloadfix
 
 Normally, when sideloading Facebook, you'll be logged out after you kill Facebook from the app switcher. Same thing happens with sideloaded Instagram. Opa334 made a fix for Instagram log-in (https://github.com/opa334/IGSideloadFix), and surprisingly, his fix also works for Facebook.
